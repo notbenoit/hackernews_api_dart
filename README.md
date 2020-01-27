@@ -1,5 +1,7 @@
 # HackerNews
 
+![Dart CI](https://github.com/notbenoit/hackernews_api_dart/workflows/Dart%20CI/badge.svg)
+
 A Dart package to interact with the HackerNews API.
 
 ## Usage
